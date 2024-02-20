@@ -114,3 +114,7 @@ sandbox
 # OpenAPI-generator
 /.openapi-generator*
 **/writer.pickle
+
+bin/
+lib64
+pyvenv.cfg
